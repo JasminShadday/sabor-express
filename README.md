@@ -12,5 +12,5 @@ Controlar entregas: O sistema também permite acompanhar o status dos pedidos, d
 
 ## 🚀 Tecnologias
 <div>Essa aplicação é um sistema para gerenciar pedidos de comida, como um restaurante online
-    <img src="https://logospng.org/download/html-5/logo-html-5-256.png](https://www.flaticon.com/free-icon/python_5968350)">
+    <img src="https://logospng.org/download/html-5/logo-html-5-256.png](https://www.flaticon.com/free-icon/python_5968350">
 </div>
