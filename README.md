@@ -11,6 +11,6 @@ Controlar entregas: O sistema também permite acompanhar o status dos pedidos, d
 É como se o Sabor-Express fosse um "intermediário" entre você e os restaurantes</p>
 
 ## 🚀 Tecnologias
-<div>Essa aplicação é um sistema para gerenciar pedidos de comida, como um restaurante online
+<div>
     <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
 </div>
